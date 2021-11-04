@@ -1,14 +1,14 @@
 # Vertex ⚔️
 
-Vertex is a modern runtime for decentralised server apps. It's written in Rust, powered by WebAssembly and WASI, hyperfast, ultrasecure, very lightweight and very powerful.
+<p align="center">Vertex is a modern runtime for decentralised infrastructure.</p>
 
 ## Features 🗞️
 
-- Written in Rust ☄️ - codebase is very performant, native to all platforms and architectures and safe
-- Powered by WebAssembly and WASI 💪 - capable of running practically anything, from Bitcoin Core to web servers to databases, written in any language you want (that compiles to WASM/WASI)
-- Hyperfast 🏎️ - Vertex runs ~20% slower than native code (performance will increase over time) due to lack of a virtual machine or operating system
-- Ultrasecure 💂 - features available to apps have to be whitelisted, Vertex uses capability-based security
-- Very powerful 👾 - it's built to scale, so whether you have a Raspberry Pi or a mini-datacenter, Vertex will use all resources at its disposal
+- **Written in Rust** ☄️ - codebase is very performant, native to all platforms and architectures and safe
+- **Powered by WebAssembly and WASI** 💪 - capable of running practically anything, from Bitcoin Core to web servers to databases, written in any language you want (that compiles to WASM/WASI)
+- **Hyperfast** 🏎️ - Vertex runs ~20% slower than native code (performance will increase over time) due to lack of a virtual machine or operating system
+- **Ultrasecure** 💂 - features available to apps have to be whitelisted, Vertex uses capability-based security
+- **Powerful** 👾 - it's built to scale, so whether you have a Raspberry Pi or a mini-datacenter, Vertex will use all resources at its disposal
 
 ## Vertex vs Docker
 
